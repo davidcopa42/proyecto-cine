@@ -1,0 +1,7 @@
+com.example.ProyectoFinalCine
+com.example.ProyectoFinalCine.config
+com.example.ProyectoFinalCine.controllers
+com.example.ProyectoFinalCine.entities
+com.example.ProyectoFinalCine.entities.audit
+com.example.ProyectoFinalCine.repositories
+com.example.ProyectoFinalCine.services
